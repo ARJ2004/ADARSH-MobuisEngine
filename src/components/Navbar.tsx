@@ -14,7 +14,7 @@ const Navbar = () => (
     }}
   >
     <div className="flex items-center gap-2">
-      <img src="src/lib/Group 21 (1).png" alt="Logo" className="h-8 w-8" />
+      <img src="/Group 21 (1).png" alt="Logo" className="h-8 w-8" />
       <span className="font-dm text-2xl font-semibold text-white">MobuisEngine</span>
     </div>
 
