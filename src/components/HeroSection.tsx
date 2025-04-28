@@ -6,7 +6,7 @@ const HeroSection = () => {
     <section
       className="text-white py-20 md:py-32"
       style={{
-        backgroundImage: "url('src/lib/Gradient.png')",
+        backgroundImage: "url('/Gradient.png')",
         backgroundSize: 'cover',
         backgroundPosition: 'center',
       }}
